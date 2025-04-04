@@ -182,3 +182,4 @@ TableXtractor/*.xlsx
 TableXtractor/*.log
 TableXtractor/.env
 TableXtractor/.streamlit/
+venv/
