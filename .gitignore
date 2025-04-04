@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+
+TableXtractor/outputs/
+TableXtractor/__pycache__/
+TableXtractor/*.pyc
+TableXtractor/*.xlsx
+TableXtractor/*.log
+TableXtractor/.env
+TableXtractor/.streamlit/
